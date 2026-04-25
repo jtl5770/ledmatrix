@@ -73,4 +73,4 @@ To run this automatically on login, you can use the provided service file:
   - Brightness via IIO (`/sys/bus/iio/devices/iio:device*`).
 
 ## ⚖️ License
-MIT
+GPL-3.0-or-later
